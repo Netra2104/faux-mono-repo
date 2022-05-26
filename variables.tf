@@ -22,3 +22,8 @@ variable "global_varset_var" {
   type = string
   description = "Value set global varset"
 }
+
+variable "new_varset_var" {
+  type = string
+  description = "Value set global varset"
+}
