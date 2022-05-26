@@ -23,7 +23,7 @@ variable "global_varset_var" {
   description = "Value set global varset"
 }
 
-variable "new_varset_var" {
+variable "new_variable" {
   type = string
-  description = "Value set global varset"
+  description = "Value sal varset"
 }
